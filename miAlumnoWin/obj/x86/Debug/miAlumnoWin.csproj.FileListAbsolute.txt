@@ -1,0 +1,15 @@
+D:\OLR\miAlumnoWin\miAlumnoWin\bin\Debug\miAlumnoWin.exe
+D:\OLR\miAlumnoWin\miAlumnoWin\bin\Debug\miAlumnoWin.pdb
+D:\OLR\miAlumnoWin\miAlumnoWin\obj\x86\Debug\miAlumnoWin.frmAlumno.resources
+D:\OLR\miAlumnoWin\miAlumnoWin\obj\x86\Debug\miAlumnoWin.Properties.Resources.resources
+D:\OLR\miAlumnoWin\miAlumnoWin\obj\x86\Debug\miAlumnoWin.csproj.GenerateResource.Cache
+D:\OLR\miAlumnoWin\miAlumnoWin\obj\x86\Debug\miAlumnoWin.exe
+D:\OLR\miAlumnoWin\miAlumnoWin\obj\x86\Debug\miAlumnoWin.pdb
+D:\Users\Usuario\Desktop\Tecnicatura\Programación I\Practicos\miAlumnoWin\miAlumnoWin\obj\x86\Debug\miAlumnoWin.exe
+D:\Users\Usuario\Desktop\Tecnicatura\Programación I\Practicos\miAlumnoWin\miAlumnoWin\obj\x86\Debug\miAlumnoWin.pdb
+D:\Users\Usuario\Desktop\Tecnicatura\Programación I\Practicos\miAlumnoWin\miAlumnoWin\bin\Debug\miAlumnoWin.exe
+D:\Users\Usuario\Desktop\Tecnicatura\Programación I\Practicos\miAlumnoWin\miAlumnoWin\bin\Debug\miAlumnoWin.pdb
+D:\Users\Usuario\Desktop\Tecnicatura\Programación I\Practicos\miAlumnoWin\miAlumnoWin\obj\x86\Debug\miAlumnoWin.frmAlumno.resources
+D:\Users\Usuario\Desktop\Tecnicatura\Programación I\Practicos\miAlumnoWin\miAlumnoWin\obj\x86\Debug\miAlumnoWin.Properties.Resources.resources
+D:\Users\Usuario\Desktop\Tecnicatura\Programación I\Practicos\miAlumnoWin\miAlumnoWin\obj\x86\Debug\miAlumnoWin.csproj.GenerateResource.Cache
+D:\Users\Usuario\Desktop\Tecnicatura\Programación I\Practicos\miAlumnoWin\miAlumnoWin\obj\x86\Debug\miAlumnoWin.csprojResolveAssemblyReference.cache
