@@ -80,7 +80,7 @@ namespace miAlumnoWin
 
         private void txtLegajo_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar)) //&& (e.KeyChar != '.')) ++ Este código es el que sirve para validar que no se coloquen valores numéricos!
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar)) //&& (e.KeyChar != '.')) ++ Este código es el que sirve para validar que se coloquen solo valores numéricos!
             {
                 e.Handled = true;
             }
