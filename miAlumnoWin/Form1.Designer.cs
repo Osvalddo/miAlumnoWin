@@ -72,9 +72,11 @@
             this.txtLegajo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtLegajo.Font = new System.Drawing.Font("Tahoma", 10F);
             this.txtLegajo.Location = new System.Drawing.Point(188, 24);
+            this.txtLegajo.MaxLength = 6;
             this.txtLegajo.Name = "txtLegajo";
             this.txtLegajo.Size = new System.Drawing.Size(100, 24);
             this.txtLegajo.TabIndex = 0;
+            this.txtLegajo.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtLegajo_KeyPress);
             // 
             // btnRegistrar
             // 
